@@ -14,17 +14,17 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>新AI统计W</string>
+			<string>新AI统计H</string>
 			<key>PayloadDescription</key>
 			<string>Configuration Payload description</string>
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-F9AF738B740F</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-2091C53C60F6</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-F9AF738B740F</string>
+			<string>E0736409-C08F-4F54-86DA-2091C53C60F6</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -36,13 +36,13 @@
 	<key>PayloadDisplayName</key>
 	<string>PakePlus-iOS-bbefaafee</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-F9AF738B740F</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-2091C53C60F6</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-F9AF738B740F</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-2091C53C60F6</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
