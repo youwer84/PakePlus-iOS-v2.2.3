@@ -14,35 +14,35 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>新AI统计G</string>
+			<string>新AI统计85</string>
 			<key>PayloadDescription</key>
 			<string>Configuration Payload description</string>
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-C74065880AE2</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-97A2F10B5768</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-C74065880AE2</string>
+			<string>E0736409-C08F-4F54-86DA-97A2F10B5768</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>http://154.201.68.28:20251</string>
+			<string>http://154.201.68.85:26666</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>PakePlus-iOS-bbefaafee</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-C74065880AE2</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-97A2F10B5768</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-C74065880AE2</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-97A2F10B5768</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
